@@ -1,0 +1,3 @@
+# DSP Signal Processing Application Dependencies
+numpy
+matplotlib
